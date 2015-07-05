@@ -1,0 +1,8 @@
+C:\Users\akila\Documents\Visual Studio 2012\Projects\ConsoleApplication9\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\akila\Documents\Visual Studio 2012\Projects\ConsoleApplication9\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\akila\Documents\Visual Studio 2012\Projects\ConsoleApplication9\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\akila\Documents\Visual Studio 2012\Projects\ConsoleApplication9\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\akila\Documents\Visual Studio 2012\Projects\ConsoleApplication9\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\akila\Desktop\New folder (3)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\akila\Desktop\New folder (3)\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\akila\Desktop\New folder (3)\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

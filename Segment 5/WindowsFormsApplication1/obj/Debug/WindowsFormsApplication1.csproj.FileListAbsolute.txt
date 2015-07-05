@@ -1,0 +1,22 @@
+C:\Users\akila\Documents\Visual Studio 2012\Projects\ConsoleApplication9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\akila\Documents\Visual Studio 2012\Projects\ConsoleApplication9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\akila\Documents\Visual Studio 2012\Projects\ConsoleApplication9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\akila\Documents\Visual Studio 2012\Projects\ConsoleApplication9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\akila\Documents\Visual Studio 2012\Projects\ConsoleApplication9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\akila\Documents\Visual Studio 2012\Projects\ConsoleApplication9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\akila\Documents\Visual Studio 2012\Projects\ConsoleApplication9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\akila\Documents\Visual Studio 2012\Projects\ConsoleApplication9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\akila\Documents\Visual Studio 2012\Projects\ConsoleApplication9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\akila\Documents\Visual Studio 2012\Projects\ConsoleApplication9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Student_Details.resources
+C:\Users\akila\Documents\Visual Studio 2012\Projects\ConsoleApplication9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Student_Registration.resources
+C:\Users\akila\Desktop\New folder (3)\Segment 5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\akila\Desktop\New folder (3)\Segment 5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\akila\Desktop\New folder (3)\Segment 5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\akila\Desktop\New folder (3)\Segment 5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\akila\Desktop\New folder (3)\Segment 5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\akila\Desktop\New folder (3)\Segment 5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\akila\Desktop\New folder (3)\Segment 5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\akila\Desktop\New folder (3)\Segment 5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\akila\Desktop\New folder (3)\Segment 5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Student_Details.resources
+C:\Users\akila\Desktop\New folder (3)\Segment 5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Student_Registration.resources
+C:\Users\akila\Desktop\New folder (3)\Segment 5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

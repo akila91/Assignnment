@@ -1,0 +1,6 @@
+C:\Users\akila\Desktop\New folder (3)\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\akila\Desktop\New folder (3)\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\akila\Desktop\New folder (3)\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\akila\Desktop\New folder (3)\Segment 4\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\akila\Desktop\New folder (3)\Segment 4\obj\Debug\ConsoleApplication2.exe
+C:\Users\akila\Desktop\New folder (3)\Segment 4\obj\Debug\ConsoleApplication2.pdb

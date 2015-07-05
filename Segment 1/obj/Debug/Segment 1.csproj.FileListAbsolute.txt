@@ -1,0 +1,6 @@
+C:\Users\akila\Desktop\New folder (3)\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\akila\Desktop\New folder (3)\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\akila\Desktop\New folder (3)\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\akila\Desktop\New folder (3)\Segment 1\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\akila\Desktop\New folder (3)\Segment 1\obj\Debug\ConsoleApplication9.exe
+C:\Users\akila\Desktop\New folder (3)\Segment 1\obj\Debug\ConsoleApplication9.pdb

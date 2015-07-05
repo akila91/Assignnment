@@ -1,0 +1,1 @@
+Insert into Person (last,first,gender,DoB) values ('wimalasiri','akila','male','7/12/1991')

@@ -1,0 +1,17 @@
+USE [StudentDB]
+GO
+
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROCEDURE [dbo].[NextProcedure]
+AS
+BEGIN
+    SELECT IDENT_CURRENT('Registration')+1; 
+END
+GO
+
+
